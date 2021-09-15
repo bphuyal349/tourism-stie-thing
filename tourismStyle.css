@@ -1,0 +1,40 @@
+/*find by class use .*/
+.text{
+        font-size: 15px;
+        font-family: monospace;
+     }
+
+#centerCol{
+        border-left: 1px solid #9CB9EF;
+        border-right: 1px solid #9CB9EF;
+        height: 100%;
+}
+
+a{
+    text-decoration: none;
+    font-size: 15x;
+    color: #78AADC;
+}
+
+body{
+  background-color:#4A84B5;
+  color: #9CB9EF;
+  image-orientation: center;
+}
+
+#end
+{
+  font-size: 10px;
+  color: #6992DD;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+hr
+{
+  border: 1px solid #9CB9EF;
+}
